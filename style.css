@@ -22,3 +22,13 @@ body{
     display:inline;
 }
 
+.bottomRow{
+    height: 153px
+
+}
+
+.bRow{
+    inline-size: 30%;
+    height: 100%;
+
+}
