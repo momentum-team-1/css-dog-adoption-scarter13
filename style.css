@@ -1,1 +1,24 @@
-img {width=100}
+body{
+    background-color: lightgray;
+}
+
+.doghouse{
+    background-color: lightpink;
+    inline-size: 30%;
+    box-sizing: borderbox;
+    display:inline-block;
+
+}
+
+.dogpic{
+    inline-size: 100%;
+}
+
+.petname{
+    font-weight: bold;
+}
+
+.deets{
+    display:inline;
+}
+
