@@ -1,9 +1,15 @@
 body{
-    background-color: lightgray;
+    font-family: Oswald
+    
+}
+
+h1{
+    background-color: darkblue;
+    color:white;
+    padding: 24px;
 }
 
 .doghouse{
-    background-color: lightpink;
     inline-size: 30%;
     box-sizing: borderbox;
     display:inline-block;
@@ -20,15 +26,31 @@ body{
 
 .deets{
     display:inline;
+    background-color: deepskyblue;
+    border-radius: 15px;
+    color: black;
+    margin: 10px 10px0;
+    padding: 5px 5px;
 }
 
 .bottomRow{
-    height: 153px
+    height: 300px;
+    
+
 
 }
 
 .bRow{
     inline-size: 30%;
     height: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-image:
+        linear-gradient(
+                rgba (0, 0, 255, .5),
+                rgba (0, 0, 255, .5)
+        )
 
 }
